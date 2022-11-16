@@ -16,6 +16,8 @@ Therefore, our goal is to “inspect” whether Youtube is a reliable and divers
 
 ## Additional datasets
 
+- Google Trends for "trending topics" (per year, per category, per geo-location)
+
 ## Methods
 First of all, we would like to proceed a time series analysis to determine which topics were the most discussed at a certain time period. We would then compare these topics to an additional data set that contains imporant events that occurred in the world during the same time period. Thereby, we would be able to examine if Youtube puts enough emphasis on the important subjects in real life. In order to quantify the amplitude of the event, we would like to quantify the number of people affected by the event. We would focus on events that have only occurred in English-speaking regions, since the original data set only includes English YouTube channels. To determine which topic is discussed in each video, we would analyze the tags, the description and the title of the video. 
 
