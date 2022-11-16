@@ -14,9 +14,7 @@ Therefore, our goal is to “inspect” whether Youtube is a reliable and divers
 - Do controversial topics get more attention?
 - Are the most discussed topics on Youtube also relevant on other social media/news outlets?
 
-## Additional datasets
 
-- Google Trends for "trending topics" (per year, per category, per geo-location)
 
 ## Methods
 First of all, we would like to proceed a time series analysis to determine which topics were the most discussed at a certain time period. We would then compare these topics to an additional data set that contains imporant events that occurred in the world during the same time period. Thereby, we would be able to examine if Youtube puts enough emphasis on the important subjects in real life. In order to quantify the amplitude of the event, we would like to quantify the number of people affected by the event. We would focus on events that have only occurred in English-speaking regions, since the original data set only includes English YouTube channels. To determine which topic is discussed in each video, we would analyze the tags, the description and the title of the video. 
@@ -24,6 +22,23 @@ First of all, we would like to proceed a time series analysis to determine which
 Second, we would determine whether a topic is controversial or not by computing the dislike/like ratio. If this ratio is large, we will consider the topics and opinions of a video as being controversial. By doing that, we will be able to classify videos according to how controversial they are. Then, we could compare the two datasets that we have obtained and determine whether there is a correlation between the variables.
 
 Then, we could further analyze the percentage of independent channels and news organization channels in the news/politics category, as well as the average views and subscribers they have, in order to observe how much people actually consider Youtube as being an important source of information. Also, we could compare the different narratives that they are painting, by computing the percentage of videos with negative tones that they produce.
+
+Finally, we would like to compare the issues that were brought up on Youtube to the ones on other social media platforms, such as Twitter and Instagram. In order to do that, we would compare the most relevant keywords on Youtube versus on other platforms. 
+
+## Additional datasets
+
+- Google Trends for "trending topics" (per year, per category, per geo-location)
+- Timeline of the 21st century: data from Wikipedia, contains significant events in the course of time.
+- Positive and Negative Word List.xlsx: data from Kaggle, a list of positive and negative words in order to study how some Youtube news outlets try to overstimulate their audience using negative words. 
+
+## External libraries
+
+- matplotlib
+- seaborn
+- sys
+- os
+- glob
+- plotly
 
 # Timeline:
 
