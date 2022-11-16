@@ -2,7 +2,16 @@
 
 The current external datasets are sourced from Google Trends. Google Trends has yearly, geo-location, and key-based trends that are publicly available for use. In this repository you will find our external datasets that will be used in our analysis.
 
-### ./datasets/most_popular_topics_year_global.csv 
+---
+
+``` ./datasets/metadata_chunks```
+
+this folder contains the ```yt_metadata_en.jsonl.gz``` file converted into a series of csv chunk files.
+
+
+---
+
+```./datasets/most_popular_topics_year_global.csv ```
 
 dataset containing most popular topics. Plan to expand this csv file as there are multiple columns to consider from Google Trends yearly data. Will clean up before incorperating into notebook
 
