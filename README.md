@@ -41,10 +41,20 @@ Finally, we would like to compare the issues that were brought up on Youtube to 
 - plotly
 
 # Timeline:
+- 18/11: Topic modelling, data clustering
+- 25/11: Time series analysis, determine controversial topics, Filter news channels
+- 02/12: Determine how to visually present our analysis
+- 09/02: Finalize statistical analysis
+- 16/12: Website and data story
 
 # Organization:
+Lina: topic modelling, filter out the topics of videos and regroup them, writing of data story, time series analysis
+Simon: data clustering and website, time series analysis
+Siyoung: Filter news channels (independent/mainstream media), time series analysis
+Arben: Determine controversial topics, time series analysis
 
 # Questions:
+- Does our research questions are specific enough ?
 
 
 
