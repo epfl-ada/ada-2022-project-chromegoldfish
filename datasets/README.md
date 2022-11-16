@@ -4,14 +4,14 @@ The current external datasets are sourced from Google Trends. Google Trends has 
 
 ---
 
-``` ./datasets/metadata_chunks```
+[1] ``` ./datasets/metadata_chunks```
 
 this folder contains the ```yt_metadata_en.jsonl.gz``` file converted into a series of csv chunk files.
 
 
 ---
 
-```./datasets/most_popular_topics_year_global.csv ```
+[2] ```./datasets/most_popular_topics_year_global.csv ```
 
 dataset containing most popular topics. Plan to expand this csv file as there are multiple columns to consider from Google Trends yearly data. Will clean up before incorperating into notebook
 
