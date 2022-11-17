@@ -3,7 +3,7 @@
 ## Abstract
 
 
-Youtube has grown into a major source of information over the decade, with its main attributes being selectivity and anonymity. According to a study by G.Stocking et al.(2020), a quarter of USA citizens consider Youtube as being an important news outlet, while being as likely to turn to independent channels as they are to established news organizations. Since the way  to succeed on Youtube is strictly getting more views on videos, an important amount of misinformation and bias is suspected from the creators. 
+Youtube has grown into a major source of information over the decade, with its main attributes being selectivity and anonymity. According to a study by [G.Stocking et al.(2020)](https://www.pewresearch.org/journalism/2020/09/28/many-americans-get-news-on-youtube-where-news-organizations-and-independent-producers-thrive-side-by-side/), a quarter of USA citizens consider Youtube as being an important news outlet, while being as likely to turn to independent channels as they are to established news organizations. Since the way  to succeed on Youtube is strictly getting more views on videos, an important amount of misinformation and bias is suspected from the creators. 
 Therefore, our goal is to “inspect” whether Youtube is a reliable and diverse source of information. By “reliable”, whether it covers a large number of issues, or it only focuses on certain types of events, and by “diverse”, whether it provides different point of views or it reinforces a biased opinion on a specific topic. It seems to be an interesting lead, since the platform users encounter a flood of information on a daily basis, and it often creates confusion in the public perception of the issue. 
 
 
