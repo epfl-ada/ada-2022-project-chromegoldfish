@@ -54,7 +54,7 @@ Finally, we would like to compare the issues that were brought up on Youtube to 
 - Arben: Determine controversial topics, time series analysis
 
 # Questions:
-- Does our research questions are specific enough ?
+- Are our research questions specific enough ?
 
 
 
