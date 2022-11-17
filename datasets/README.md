@@ -26,3 +26,6 @@ year,froogle_searches,most_searched
 2005,7) Xbox,7) American Idol
 ...,...,...
 ```
+---
+[3] ```./datasets/wiki_events.csv ```
+Dataset contains the events that occured in the world per year from this [wiki article](https://en.wikipedia.org/wiki/Timeline_of_the_21st_century).
