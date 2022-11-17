@@ -9,11 +9,11 @@ Therefore, our goal is to “inspect” whether Youtube is a reliable and divers
 
 ## Research questions: 
 
-- Are Youtube videos mirroring the events that are happening off-screen in the real world? Do the activity of users, trends, and popular topics reflect the impactful and well-reknown phenomenons thatare happening around the world?
-- Which events catch the public eye the most?
-- Do controversial topics get more attention?
+- Are Youtube videos mirroring the events that are happening off-screen in the real world? Do the activity of users, trends, and popular topics reflect the impactful and well-reknown phenomenons that are happening around the world?
+- Which type of events catch the public eye the most? Which topics gain the most views, interaction, and popularity on YouTube?
+- Is controversy happening off-screen reflected through the likes and dislikes on YouTube videos covering them? Do controversial topics get more attention (more views and interaction)?
 - Are the most discussed topics on Youtube also relevant on other social media/news outlets?
-
+- What are the most popular types of topics covered by YouTube? Can YouTube be considered a news outlet, a platform for political views and interaction, a place to showcase your art, a platform to gain skills useful for your careeer...?
 
 
 ## Methods
