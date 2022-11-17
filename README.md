@@ -9,8 +9,8 @@ Therefore, our goal is to “inspect” whether Youtube is a reliable and divers
 
 ## Research questions: 
 
-- Does Youtube reflect the events that occur off screen?
-- Which events catches the public eye the most?
+- Are Youtube videos mirroring the events that are happening off-screen in the real world? Do the activity of users, trends, and popular topics reflect the impactful and well-reknown phenomenons thatare happening around the world?
+- Which events catch the public eye the most?
 - Do controversial topics get more attention?
 - Are the most discussed topics on Youtube also relevant on other social media/news outlets?
 
@@ -41,14 +41,14 @@ Finally, we would like to compare the issues that were brought up on Youtube to 
 - plotly
 
 # Timeline:
-- 18/11: Topic modelling, data clustering
+- 18/11: Topic modeling, data clustering
 - 25/11: Time series analysis, determine controversial topics, Filter news channels
 - 02/12: Determine how to visually present our analysis
 - 09/02: Finalize statistical analysis
 - 16/12: Website and data story
 
 # Organization:
-- Lina: topic modelling, filter out the topics of videos and regroup them, writing of data story, time series analysis
+- Lina: topic modeling, filter out the topics of videos and regroup them, writing of data story, time series analysis
 - Simon: data clustering and website, time series analysis
 - Siyoung: Filter news channels (independent/mainstream media), time series analysis
 - Arben: Determine controversial topics, time series analysis
