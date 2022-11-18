@@ -30,7 +30,6 @@ Finally, we would like to compare the issues that were brought up on Youtube to 
 ## Additional datasets
 
 - Google Trends for "trending topics" (per year, per category, per geo-location)
-- Timeline of the 21st century: data from Wikipedia contains significant events in the course of time.
 - Positive and Negative Word List.xlsx: data from Kaggle, a list of positive and negative words in order to study how some Youtube news outlets try to overstimulate their audience using negative words. 
 - Twitter News Dataset found on: https://figshare.com/articles/dataset/tweets_csv_gz/3465974/2
 
@@ -42,6 +41,7 @@ Finally, we would like to compare the issues that were brought up on Youtube to 
 - os
 - glob
 - plotly
+- re
 
 # Timeline:
 - 18/11: Topic modeling, data clustering
