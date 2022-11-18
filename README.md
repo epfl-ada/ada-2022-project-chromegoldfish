@@ -1,5 +1,7 @@
 # Youtube, the mirror of society?
 
+Main notebook located on src/data-explore.ipynb
+
 ## Abstract
 
 
@@ -49,7 +51,7 @@ Finally, we would like to compare the issues brought up on Youtube to the ones o
 
 # Organization:
 - Lina: topic modeling, filtering out the topics of videos and regrouping them, writing of data story, time series analysis
-- Simon: data clustering and website, time series analysis
+- Simon: data clustering and website, time series analysis, compare our time series analysis with external datasets to assess "trends"
 - Siyoung: Filter news channels (independent/mainstream media), time series analysis
 - Arben: Determine controversial topics, time series analysis
 
