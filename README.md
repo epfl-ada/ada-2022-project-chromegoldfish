@@ -1,6 +1,6 @@
 # Youtube, the mirror of society?
 
-Main notebook located on src/data-explore.ipynb
+Main notebook located on ```src/data-explore.ipynb```
 
 ## Abstract
 
