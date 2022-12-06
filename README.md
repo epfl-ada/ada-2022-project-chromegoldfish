@@ -1,4 +1,4 @@
-# Youtube, the mirror of society?
+# Youtube, mirror of society?
 
 Main notebook located on ```src/data-explore.ipynb```
 
@@ -13,9 +13,9 @@ Therefore, our goal is to “inspect” whether Youtube is a reliable and divers
 
 - Are Youtube videos mirroring the events happening off-screen in the real world? Do the activity of users, trends, and popular topics reflect the impactful and well-renowned phenomenons happening worldwide?
 - Which type of events catch the public eye the most? Which topics gain the most views, interaction, and popularity on YouTube?
-- Is controversy happening off-screen reflected through the likes and dislikes on YouTube videos covering them? Do controversial topics get more attention (more views and interaction)?
 - Are the most discussed topics on Youtube also relevant on other social media/news outlets?
 - What are the most popular types of topics covered by YouTube? Can YouTube be considered a news outlet, a platform for political views and interaction, a place to showcase your art, a platform to gain skills useful for your career...?
+- Are Youtube news channels relevant news sources? Do independent channels and news organizations on Youtube stay true to their viewers? Do independent channels try to catch more attention by using certain type of words in their title? 
 
 
 ## Methods
