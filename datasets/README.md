@@ -4,28 +4,28 @@ The current external datasets are sourced from Google Trends. Google Trends has 
 
 ---
 
-[1] ``` ./datasets/metadata_chunks```
+[1] ``` ./datasets/figures```
 
-this folder contains the ```yt_metadata_en.jsonl.gz``` file converted into a series of csv chunk files.
+this folder contains all the figures generated from our notebooks. Note that some figures were not used in our data story but are there.
 
 
 ---
 
-[2] ```./datasets/most_popular_topics_year_global.csv ```
+[2] ```./datasets/new organizations ```
 
-dataset containing most popular topics. Plan to expand this csv file as there are multiple columns to consider from Google Trends yearly data. Will clean up before incorperating into notebook
+this folder contains news organizations datasets which contains the names of different media platforms from different users.
 
-```
-year,froogle_searches,most_searched
-2005,1) iPod,1) Janet Jackson
-2005,2) Digital Camera,2) Hurricane Katrina
-2005,3) MP3 Player,3) Tsunami
-2005,4) iPod Mini,4) Xbox 360
-2005,5) PlayStation Portable,5) Brad Pitt
-2005,6) Laptop,6) Michael Jackson
-2005,7) Xbox,7) American Idol
-...,...,...
-```
 ---
-[3] ```./datasets/wiki_events.csv ```
-Dataset contains the events that occured in the world per year from this [wiki article](https://en.wikipedia.org/wiki/Timeline_of_the_21st_century).
+
+[3] ```./timeseries ```
+This folder contains the ```.zip``` files of the specific topics we looked at in the time series analysis. 
+
+---
+
+[4] ```./wiki_events.csv```
+Contains a cleaner version of the wiki_events data files that we used in our ```src/data-explore.ipynb``` notebook. Also generated in the ```src/extract_wiki_events.ipynb``` notebook. 
+
+---
+
+[5] ```./wiki_events.xml```
+Contains the raw version of the wiki_events data files. This file is required to generated a preprocessed ```.csv``` version in the ```src/extract_wiki_events.ipynb``` notebook. 
