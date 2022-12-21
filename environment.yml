@@ -1,0 +1,15 @@
+name: ada
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - python=3.9
+  - pandas
+  - scipy
+  - numpy
+  - jupyterlab
+  - seaborn
+  - nb_conda_kernels
+  - bokeh
+  - statsmodels
+prefix: /Users/simonlee/opt/anaconda3/envs/ada
