@@ -1,6 +1,6 @@
 # Youtube, mirror of society?
 
-Main notebook located on ```src/data-explore.ipynb```
+Notebook organization contained in the ```./src/README.md```
 
 ## Abstract
 
