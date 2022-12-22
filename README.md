@@ -44,7 +44,7 @@ The list of the external libraries used can be found in ```environment.yml```.
 
 # Organization:
 - Lina: topic modeling, filtering out the topics of videos and regrouping them, writing of data story, time series analysis
-- Simon: data clustering and website, time series analysis, compare our time series analysis with external datasets to assess "trends"
+- Simon: LDA, wordclouds + N-grams, Website formatting
 - Siyoung: Filter news channels, time series analysis, Discussion
 - Arben: Timeseries analysis, extract events from wiki article
 
