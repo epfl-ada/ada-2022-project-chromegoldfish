@@ -29,17 +29,11 @@ Finally, we would like to compare the issues that were brought up on Youtube to 
 
 ## Additional datasets
 
-Dataset organization can be found in the ```/datasets/README.md```
+Dataset organization can be found in the ```/datasets/README.md```.
 
 ## External libraries
 
-- matplotlib
-- seaborn
-- sys
-- os
-- glob
-- plotly
-- re
+The list of the external libraries used can be found in ```environment.yml```.
 
 # Timeline:
 - 18/11: Topic modeling, data clustering
@@ -52,10 +46,7 @@ Dataset organization can be found in the ```/datasets/README.md```
 - Lina: topic modeling, filtering out the topics of videos and regrouping them, writing of data story, time series analysis
 - Simon: data clustering and website, time series analysis, compare our time series analysis with external datasets to assess "trends"
 - Siyoung: Filter news channels (independent/mainstream media), time series analysis
-- Arben: Determine controversial topics, time series analysis
-
-# Questions:
-- Are our research questions specific enough?
+- Arben: Timeseries analysis, extract events from wiki article
 
 
 
