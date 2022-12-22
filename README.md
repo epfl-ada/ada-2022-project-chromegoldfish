@@ -15,13 +15,13 @@ Therefore, our goal is to “inspect” whether Youtube is a reliable and divers
 - Which type of events catch the public eye the most? Which topics gain the most views, interaction, and popularity on YouTube?
 - Are the most discussed topics on Youtube also relevant on other social media/news outlets?
 - What are the most popular types of topics covered by YouTube? Can YouTube be considered a news outlet, a platform for political views and interaction, a place to showcase your art, a platform to gain skills useful for your career...?
-- Are Youtube news channels relevant news sources? Do independent channels and news organizations on Youtube stay true to their viewers? Do independent channels try to catch more attention by using certain type of words in their title? 
+- Are Youtube news channels relevant news sources?
 
 
 ## Methods
 In order to analyze the most discussed topics in channels classified as "News and Politics" during a certain time period, we will conduct a time series analysis. Our focus will be on specific events that occurred between 2005 and 2019, which we have divided into five categories: sports, technology, politics, health, and trending topics on YouTube. For each category, we have selected a few representative events to study, such as the football World Cup, tennis, basketball, the Olympic games, and baseball in the sports category. Our methodology involves identifying specific keywords related to each event and then aggregating the number of views and number of videos uploaded per month. This will allow us to compare the coverage of different events over time and observe any differences in exposure between cyclical events (e.g. the football World Cup, which occurs every four years). 
 
-In our analysis of YouTube data, we will be dealing with a large amount of textual data. In addition to the timeseries analysis, we will first perform an N-gram analysis to extract meaningful insights from this data. This will help us identify frequently occurring words and word pairings, which can help us identify trends in the data. After conducting the N-gram analysis, we will also apply Latent Dirichlet Allocation (LDA), a statistical generative algorithm that groups words and assigns prevalence and saliency to specific words based on their probability distribution. This will help us gain a better understanding of the underlying themes and patterns in the data.
+In addition to the timeseries analysis, we will first perform an N-gram analysis to extract meaningful insights from this data. Indeed, we will be dealing with a large amount of textual data. Therefore, this will help us identify frequently occurring words and word pairings, which can allow us to identify trends in the data. After conducting the N-gram analysis, we will also apply Latent Dirichlet Allocation (LDA), a statistical generative algorithm that groups words and assigns prevalence and saliency to specific words based on their probability distribution. This will help us gain a better understanding of the underlying themes and patterns in the data.
 
 ## Additional datasets
 
