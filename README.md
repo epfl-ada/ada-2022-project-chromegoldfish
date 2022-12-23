@@ -42,5 +42,5 @@ The list of the external libraries used can be found in ```environment.yml```.
 
 - Lina: Time series analysis, discussion and Data story, readme and final repo organization.
 - Simon: LDA, wordclouds + N-grams, Website formatting
-- Siyoung: Filter news channels, time series analysis, Discussion
+- Siyoung: Filter news channels, time series analysis, Discussion review and website initialization
 - Arben: Timeseries analysis, extract events from wiki article
