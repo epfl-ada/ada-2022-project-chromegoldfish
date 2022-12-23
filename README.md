@@ -40,7 +40,7 @@ The list of the external libraries used can be found in ```environment.yml```.
 
 # Organization:
 
-- Lina: Time series analysis, Data Analysis and Data story, readme and final repo organization.
+- Lina: Time series analysis, discussion and Data story, readme and final repo organization.
 - Simon: LDA, wordclouds + N-grams, Website formatting
-- Siyoung: Filter news channels, time series analysis, Discussion
+- Siyoung: Filter news channels, time series analysis, Discussion review
 - Arben: Timeseries analysis, extract events from wiki article
